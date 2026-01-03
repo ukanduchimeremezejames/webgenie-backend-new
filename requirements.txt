@@ -1,0 +1,13 @@
+﻿fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+pydantic
+pandas
+plotly
+gitpython
+numpy
+python-multipart
+alembic
+python-dotenv
+aiosqlite
